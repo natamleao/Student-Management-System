@@ -1,0 +1,11 @@
+name;registration;age;title;pagesNumber;price
+Alice Silva Souza;12345;20;Harry Potter;180;150.0
+Bruno Oliveira Santos;23456;25;O Senhor dos Aneis;1200;200.5
+Carla Mendes Pereira;34567;19;Dom Casmurro;256;45.9
+Daniel Rocha Almeida;45678;30;Clean Code;464;180.0
+Eduarda Costa Ribeiro;56789;22;A Revolucao dos Bichos;112;39.9
+Felipe Gomes Ferreira;67890;28;1984;328;55.0
+Gabriela Martins Lopes;78901;21;Orgulho e Preconceito;432;60.0
+Henrique Barros Carvalho;89012;35;Sapiens;498;89.9
+Isabela Duarte Nascimento;90123;27;O Hobbit;310;70.0
+Joao Pedro Fernandes;11234;24;Python Crash Course;544;120.0
