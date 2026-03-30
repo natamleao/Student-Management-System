@@ -217,6 +217,15 @@ Exemplo de execução do programa no terminal:
 
 ---
 
+> [!IMPORTANT]
+> ## Requisitos
+>
+> * GCC ou Clang
+> * GNU Make
+> * Linux ou macOS
+
+---
+
 ## Instalação
 
 Clone o repositório:
@@ -256,15 +265,6 @@ Remover arquivos compilados:
 make clean
 make cleanapp
 ```
----
-
-> [!IMPORTANT]
-> ## Requisitos
->
-> * GCC ou Clang
-> * GNU Make
-> * Linux ou macOS
-
 ---
 
 ## Observações
