@@ -231,8 +231,8 @@ Exemplo de execução do programa no terminal:
 Clone o repositório:
 
 ```bash
-git clone git@github.com:natamleao/Hash-Table.git
-cd Hash-Table
+git clone git@github.com:natamleao/Student-Management-System.git
+cd Student-Management-System
 ```
 
 ---
