@@ -217,22 +217,45 @@ Exemplo de execução do programa no terminal:
 
 ---
 
-## Execução
+## Instalação
+
+Clone o repositório:
+
+```bash
+git clone git@github.com:natamleao/Hash-Table.git
+cd Hash-Table
+```
+
+---
+
+## Compilação
+
+Compile o projeto com:
 
 ```bash
 make
+```
+
+---
+
+## Execução
+
+Execute o programa com:
+
+```bash
 make run
 ```
 
 ---
 
-## Limpeza
+## Limpeza do projeto
+
+Remover arquivos compilados:
 
 ```bash
 make clean
 make cleanapp
 ```
-
 ---
 
 > [!IMPORTANT]
