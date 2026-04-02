@@ -183,7 +183,7 @@ Student-Management-C/
 │
 ├── Makefile        # Automação da compilação
 ├── README.md       # Documentação
-└── LICENSE         # Licença do projeto
+└── LICENSE         # Licença 
 ```
 
 ---
