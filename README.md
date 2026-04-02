@@ -175,7 +175,7 @@ Student-Management-C/
 ├── app/            # Arquivo principal (main)
 ├── src/            # Implementação (.c)
 ├── include/        # Interfaces (.h)
-├── obj/            # Arquivos objeto (.o)
+├── build/          # Arquivos objeto (.o)
 ├── bin/            # Executável final
 ├── data/           # Persistência (arquivo binário)
 │
